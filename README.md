@@ -11,6 +11,8 @@ You have to build a small circuit for the Arduino to drive the motor.  You don't
 
 There are schematics for a simple circuit for the microcontroller to be able to PWM the motor, and scripts to read and forward the data.  There are a couple host Python files to intepret them from the incoming serial data.
 
+There are also STL files if you want to 3d-print a base for the unit.
+
 I'm pretty sure that's how all this worked - this was many years ago and I only recently unearthed it.  YMMV.
 
 Much of this is heavily borrowed from earlier work by other people, and I make no claim to ownership.  I believe this is all under permissive open source licenses.  If you own this code, and you have an issue with it being posted online, get in touch and I'll remove it.
