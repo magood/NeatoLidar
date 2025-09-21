@@ -1,0 +1,16 @@
+Serial: 8N1 at 115200 baud
+A full rotation, meaning 360 distance measurements, consists of 1980 bytes and is sent out with a refresh rate of 5 Hz.
+Board rev 7.  8/20/2010
+5v data power supply, 3v motor power supply.
+
+
+
+Piccolo Laser Distance Scanner
+Copyright (c) 2009-2011 Neato Robotics, Inc.
+All Rights Reserved
+
+Loader  V2.5.15295
+CPU     F2802x/c001
+Serial  WTD03613AA-0228944
+LastCal [5371726C]
+Runtime V2.6.15295
